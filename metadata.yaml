@@ -1,0 +1,48 @@
+_repo: Kapteeni-Grantin-lapset_39058
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Voionmaa, Eino
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '39819'
+    url: http://www.gutenberg.org/2009/agents/39819
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Júlio_Verne
+    - http://fr.wikipedia.org/wiki/Jules_Verne
+    - http://en.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2012-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39058'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'South America -- Fiction'
+- !lcsh 'Seafaring life -- Fiction'
+- !lcsh 'New Zealand -- Fiction'
+- !lcsh 'Voyages and travels -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Ocean travel -- Fiction'
+- !lcsh 'Castaways -- Fiction'
+- !lcsh 'Australia -- Fiction'
+- !lcsh 'Ship captains -- Fiction'
+title: Kapteeni Grantin lapset
+url: http://www.gutenberg.org/ebooks/39058
